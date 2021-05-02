@@ -28,7 +28,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 FBI.py
+$ python2 osif.py
 ```
 # [ Screenshot ]
 ![osif](https://user-images.githubusercontent.com/83300970/116798808-087aee80-ab11-11eb-98e5-1f46b4d726cd.png)
