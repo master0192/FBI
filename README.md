@@ -31,7 +31,7 @@ $ pip2 install -r requirements.txt
 $ python2 osif.py
 ```
 # [ Screenshot ]
-<img src=".images/osif.png "/>
+![osif](https://user-images.githubusercontent.com/83300970/116798808-087aee80-ab11-11eb-98e5-1f46b4d726cd.png)
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
